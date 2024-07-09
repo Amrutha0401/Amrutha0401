@@ -6,7 +6,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amrutha0401" alt="amrutha0401" />
   </a>
 </p>
-
+<h2 align="left"><b>About me:</b>
+  <p>Pre-final year student at VIT Chennai. As a machine learning enthusiast I have experience working on several ml and deep learning projects alongwith hosting applications on cloud platforms.Feel free to connect with me via linkedin!</p>
 <h2 align="left"><b>Connect with me:</b></h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/amrutha-p-78aba0250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
