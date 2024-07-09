@@ -24,7 +24,7 @@
 </head>
 <body>
   <div class="header">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-Xa_EJBEP3YjUrghqoqOgHG6pgGDCZEpFmegXDyejEcf93XmeEe4MYyKIA&s" alt="Background Image">
+    <img src=url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-Xa_EJBEP3YjUrghqoqOgHG6pgGDCZEpFmegXDyejEcf93XmeEe4MYyKIA&s") alt="Background Image">
     <div class="text">
       <h1>Hi, I am Amrutha!</h1>
       <h2>Machine Learning Enthusiast</h2>
