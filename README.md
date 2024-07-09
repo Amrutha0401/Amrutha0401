@@ -1,20 +1,30 @@
 <h1 align="center">Hi, I am Amrutha!</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h2 align="center">Machine Learning Enthusiast</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrutha0401" alt="amrutha0401" /></a> </p>
-
-<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amrutha-p-78aba0250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha p" height="30" width="40" /></a>
-<a href="https://kaggle.com/amrutha0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amrutha0904" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amrutha0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutha0904" height="30" width="40" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amrutha0401" alt="amrutha0401" />
+  </a>
 </p>
 
-<h3 align="left"><b>Tech Stack:</b></h3>
-<table>
+<h2 align="left"><b>Connect with me:</b></h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amrutha-p-78aba0250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha p" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/amrutha0904" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amrutha0904" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/amrutha0904" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutha0904" height="30" width="40" />
+  </a>
+</p>
+
+<h2 align="left"><b>Tech Stack:</b></h2>
+<table style="border-collapse: collapse;">
   <tr>
-    <td>
-      <h4 align="left">Programming Languages:</h4>
+    <td style="padding-right: 50px;">
+      <h3 align="left">Programming Languages:</h3>
       <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -27,8 +37,8 @@
         </a>
       </p>
     </td>
-    <td>
-      <h4 align="left">Tools and Frameworks</h4>
+    <td style="padding-left: 50px;">
+      <h3 align="left">Tools and Frameworks:</h3>
       <p align="left">
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -65,9 +75,15 @@
   </tr>
 </table>
 
-<h3><b>Github Stats</b></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutha0401&show_icons=true&locale=en&layout=compact" alt="amrutha0401" /></p>
+<h2><b>Github Stats</b></h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutha0401&show_icons=true&locale=en&layout=compact" alt="amrutha0401" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutha0401&show_icons=true&locale=en" alt="amrutha0401" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrutha0401&show_icons=true&locale=en" alt="amrutha0401" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutha0401&" alt="amrutha0401" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutha0401&" alt="amrutha0401" />
+</p>
