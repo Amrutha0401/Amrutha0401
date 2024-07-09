@@ -10,7 +10,7 @@
 <a href="https://www.leetcode.com/amrutha0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutha0904" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><b>Tech Stack:<b></h3>
+<h3 align="left"><b>Tech Stack:</b></h3>
 <table>
   <tr>
     <td>
