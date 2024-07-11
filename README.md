@@ -8,7 +8,7 @@
   </a>
 </p>
 <h2 align="left"><b>About Me</b>
-  <p>Pre-final year student at VIT Chennai. As a machine learning enthusiast I have experience working on several ml and deep learning projects alongwith hosting applications on cloud platforms.Feel free to connect with me via linkedin!</p>
+  <p>Pre-final year student at VIT Chennai. As a machine learning enthusiast, I have experience working on several ml and deep learning projects alongwith hosting applications on cloud platforms.Feel free to connect with me via linkedin!</p>
 <h2 align="left"><b>Connect With Me:</b></h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/amrutha-p-78aba0250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
@@ -23,7 +23,7 @@
 </p>
 <p></p>
 <h2 align="left"><b>Tech Stack</b></h2>
-<div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; padding-right: 20px;">
     <h3 align="left">Programming Languages</h3>
     <p align="left">
