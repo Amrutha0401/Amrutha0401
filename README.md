@@ -23,7 +23,7 @@
 </p>
 <p></p>
 <h2 align="left"><b>Tech Stack</b></h2>
-<div style="display: flex; flex-direction: column; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <h3 align="left">Programming Languages</h3>
     <p align="left">
