@@ -1,58 +1,82 @@
-
-<h1 align="center">Hi, I am Amrutha! 👋</h1>
-<h3 align="center">Machine Learning Enthusiast | Pre-final Year CSE | VIT Chennai</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amrutha-p-78aba0250"><img src="https://skillicons.dev/icons?i=linkedin" height="30"></a>
-  <a href="https://leetcode.com/amrutha0904"><img src="https://skillicons.dev/icons?i=leetcode" height="30"></a>
-  <a href="https://kaggle.com/amrutha0904"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"></a>
-</p>
+<h1 align="center">👋 Hi, I'm Amrutha</h1>
+<h3 align="center">Software Engineer | Machine Learning & AI Enthusiast | Pre-final Year @ VIT Chennai</h3>
 
 ---
 
-## 📌 About Me
-Pre-final year student at VIT Chennai. As a machine learning enthusiast, I have experience working on several ML and deep learning projects along with hosting applications on cloud platforms.  
-Passionate about building real-time intelligent systems and solving impactful problems.  
-Feel free to connect with me on LinkedIn!
+### 💡 About Me
+I'm a passionate Machine Learning and Software Engineering enthusiast focused on building practical end-to-end intelligent systems. I enjoy working across the stack—from model training & optimization to scalable deployment and real-time applications. I’m currently exploring distributed systems, real-time ML inference pipelines, and federated learning.
+
+🔍 Actively seeking **SWE / ML Internships (2025)** & **New Grad roles (2026)**  
+📍 Based in Chennai, India  
+💬 Ask me about **Deep Learning, Distributed ML, LLMs, YOLO, Flask, Deployments**  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Highlights |
+|--------|------|------------|
+| **Federated Learning for privacy preserving in Autonomous Vehicles ** | PyTorch, GNN, Federated Learning | Built FL prototype using STSD-GNN & FedAvg, achieved RMSE 1.248 |
+| **Real-Time Sign Language Translator** | YOLOv8, Flask, Multithreading, AWS | Real-time sign-to-speech system with sub-second latency |
+| **Fake News Detector (Deployed)** | DistilBERT, Gradio, HuggingFace | 99.7% accuracy, real-time inference UI **(Live)** |
+| **Fashion Object Detector (Deployed)** | YOLOv8, Streamlit, Python | Real-time inference app where users can upload images to detect fashion objects. **(Live)** |
+
+🔗 **Project links available on pinned repositories below**
 
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td align="center"><strong>Languages</strong></td>
-<td align="center"><strong>Tools & Frameworks</strong></td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-</td>
-<td align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-</td>
-</tr>
-</table>
+**Languages:** Python, C, C++, Java  
+**ML/DL:** PyTorch, TensorFlow, YOLOv8, Transformers, NLTK, Scikit-learn  
+**Tools:** Docker, Git, Linux, OpenCV  
+**Web & Deployment:** Flask, Streamlit, AWS EC2, HuggingFace Spaces, Render  
+**Database:** SQL, MySQL  
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Leadership
+- **AI/ML Lead – HackClub VIT Chennai**  
+  Led ML workshops & webinars; mentored 80+ students, hosted Kaggle competitions
+- **Judge – Women’s Hackathon**  
+  Evaluated AI projects & provided architectural guidance
+- **Microsoft Azure AI Engineer Associate (AI-102)**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amrutha0401&show_icons=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha0401&layout=compact"/>
+---
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/amrutha-p-78aba0250/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="35px"/>
+</a>
+<a href="https://leetcode.com/amrutha0904/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="35px"/>
+</a>
+<a href="https://kaggle.com/amrutha0904" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="35px"/>
+</a>
+<a href="mailto:amruthamanoj09@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px"/>
+</a>
 </p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrutha0401"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amrutha0401&show_icons=true&count_private=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha0401&layout=compact&theme=default" height="165"/>
 </p>
+
+---
+
+### 🌱 Currently Learning
+- System Design fundamentals
+- Distributed ML & model optimization
+
+---
+
+### ✨ Fun Fact
+I love turning real-world problems into intelligent automated systems & teaching others what I learn.
+
+---
